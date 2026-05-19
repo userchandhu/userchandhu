@@ -2,7 +2,7 @@
 
 ## AI & Machine Learning Engineer | NLP • Deep Learning • Generative AI
 
-Recent Artificial Intelligence & Machine Learning graduate passionate about building intelligent systems using Machine Learning, Deep Learning, NLP, and AI workflow automation.
+Artificial Intelligence & Machine Learning enthusiast passionate about building intelligent systems using Machine Learning, Deep Learning, NLP, and AI workflow automation.
 
 I enjoy solving real-world problems through predictive analytics, conversational AI, and scalable AI-driven applications.
 
