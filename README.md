@@ -16,19 +16,26 @@ I enjoy solving real-world problems through predictive analytics, conversational
 - Generative AI
 - Conversational AI
 - AI Workflow Automation
+- Predictive Analytics
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages & Libraries
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Keras
-- NLTK
+Python, Pandas, NumPy, Matplotlib, Seaborn
+
+### Machine Learning & Deep Learning
+Scikit-learn, TensorFlow, Keras, ANN, CNN, RNN, LSTM
+
+### NLP & AI
+NLTK, TF-IDF, NLP Pipelines, Prompt Engineering, Generative AI
+
+### Data Analytics & Visualization
+Power BI, Data Analysis, Feature Engineering, Model Evaluation
+
+### Tools & Platforms
+Streamlit, GitHub, Jupyter Notebook
 
 ---
 
@@ -37,27 +44,10 @@ I enjoy solving real-world problems through predictive analytics, conversational
 - Predictive Analytics
 - Classification & Clustering
 - Deep Learning
-- Conversational AI
 - NLP Systems
+- Conversational AI
 - AI Workflow Automation
 - Model Evaluation & Optimization
-
-### AI / ML
-- Classification
-- Regression
-- Clustering
-- CNN
-- ANN
-- RNN / LSTM
-- Feature Engineering
-- Model Evaluation
-- NLP Pipelines
-
-### Tools & Platforms
-- Power BI
-- Streamlit
-- GitHub
-- Jupyter Notebook
 
 ---
 
@@ -67,16 +57,16 @@ I enjoy solving real-world problems through predictive analytics, conversational
 Multi-Agent AI workflow automation system built using Voiceflow for interview simulation, ATS optimization, resume explanation, and conversational AI workflows.
 
 ### 🔹 E-Commerce Delivery Prediction
-Machine Learning system to predict delayed deliveries using ensemble models and Power BI analytics dashboard.
+Machine Learning system developed to predict delayed deliveries using ensemble learning models and Power BI analytics dashboards.
 
 ### 🔹 Lead Conversion Prediction
-Built predictive ML models to identify high-potential sales leads using feature engineering and classification algorithms.
+Built predictive machine learning models to identify high-potential sales leads using feature engineering and classification algorithms.
 
 ### 🔹 Breast Cancer Prediction
-Developed ML classification models achieving up to 97% accuracy for tumor diagnosis prediction.
+Developed machine learning classification models achieving up to 97% accuracy for tumor diagnosis prediction.
 
 ### 🔹 Handwritten Digit Recognition
-Compared ANN and CNN architectures on MNIST dataset and achieved nearly 99% accuracy using CNN models.
+Compared ANN and CNN architectures on the MNIST dataset and achieved nearly 99% accuracy using CNN-based models.
 
 ---
 
@@ -103,3 +93,4 @@ Compared ANN and CNN architectures on MNIST dataset and achieved nearly 99% accu
 - Machine Learning Engineer
 - NLP Engineer
 - Generative AI Engineer
+- Data Scientist
